@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1584273565 source:/home/hospice/Bureau/langageCpp/CPP-MIA3/Personnex/enseignant.cpp
+	"enseignant.h"
+
+1583431163 /home/hospice/Bureau/langageCpp/CPP-MIA3/Personnex/enseignant.h
+	<personnex.h>
+
+1583428230 /home/hospice/Bureau/langageCpp/CPP-MIA3/Personnex//personnex.h
+	<iostream>
+	<string>
+
+1583432081 source:/home/hospice/Bureau/langageCpp/CPP-MIA3/Personnex/etudiant.cpp
+	"etudiant.h"
+	"personnex.h"
+
+1583428335 /home/hospice/Bureau/langageCpp/CPP-MIA3/Personnex/etudiant.h
+	<iostream>
+	<string>
+	"personnex.h"
+
+1583428230 /home/hospice/Bureau/langageCpp/CPP-MIA3/Personnex/personnex.h
+	<iostream>
+	<string>
+
+1583433783 source:/home/hospice/Bureau/langageCpp/CPP-MIA3/Personnex/main.cpp
+	"etudiant.h"
+	"personnex.h"
+	"enseignant.h"
+	"moniteur.h"
+	<iostream>
+	<string>
+
+1583428879 /home/hospice/Bureau/langageCpp/CPP-MIA3/Personnex/moniteur.h
+	<etudiant.h>
+
+1583428335 /home/hospice/Bureau/langageCpp/CPP-MIA3/Personnex//etudiant.h
+	<iostream>
+	<string>
+	"personnex.h"
+
+1583428764 source:/home/hospice/Bureau/langageCpp/CPP-MIA3/Personnex/moniteur.cpp
+	"moniteur.h"
+
+1583430016 source:/home/hospice/Bureau/langageCpp/CPP-MIA3/Personnex/personnex.cpp
+	"personnex.h"
+
